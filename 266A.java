@@ -13,3 +13,4 @@ public class Stones {
       System.out.println(count);
     }
 }
+

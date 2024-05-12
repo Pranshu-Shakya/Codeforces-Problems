@@ -10,3 +10,4 @@ public class WordCapitalization {
         System.out.println(fchar.toUpperCase() + word.substring(1));
     }
 }
+
